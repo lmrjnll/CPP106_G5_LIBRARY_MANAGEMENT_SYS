@@ -1,1 +1,5 @@
 # CPP106_G5_LIBRARY_MANAGEMENT_SYS
+
+- CPP106
+- GROUP 5
+- Library Management System
